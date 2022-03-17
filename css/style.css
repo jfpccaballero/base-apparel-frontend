@@ -102,7 +102,7 @@ span {font-weight: 300;}
 }
 @media screen and (max-width: 630px) {
     .hero-mb { width: 100%;}
-    .text { padding: 2rem 10% 5rem; }
+    .text { padding: 2rem 5% 5rem; }
 }
 @media screen and (max-height: 700px) {
     .hero-dk { height: auto; }
