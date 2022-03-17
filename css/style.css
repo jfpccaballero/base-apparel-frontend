@@ -101,8 +101,9 @@ span {font-weight: 300;}
     }
 }
 @media screen and (max-width: 630px) {
+    h1 { font-size: 48px; }
     .hero-mb { width: 100%;}
-    .text { padding: 2rem 5% 5rem; }
+    .text { padding: 2rem 10% 5rem; }
 }
 @media screen and (max-height: 700px) {
     .hero-dk { height: auto; }
